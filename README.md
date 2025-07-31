@@ -13,13 +13,6 @@ Built with Flask, Dockerized, and deployed to the cloud using **Render** with a 
 
 👉 [Try the App](https://californiahousing-2.onrender.com)
 
----
-
-## 📸 Screenshot
-
-![App Screenshot](screenshot.png) <!-- Replace with your actual screenshot file -->
-
----
 
 ## 🛠️ Tech Stack
 
